@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lilchiano
 - 👀 I’m interested in building stuffs on the blockchain
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on defi
+- 💞️ I’m looking to collaborate on decentralized projects
 - 📫 How to reach me ...
 
 <!---
